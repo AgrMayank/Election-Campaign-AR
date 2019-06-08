@@ -1,0 +1,236 @@
+fileFormatVersion: 2
+guid: 5c939f455927fcc48a86ff56997fd6de
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Armature
+    100002: Bone
+    100004: Cylinder
+    100006: eye_L
+    100008: eye_L_0
+    100010: eye_R
+    100012: eye_R_0
+    100014: eyecontroller
+    100016: eyeik_L
+    100018: eyeik_R
+    100020: foot_L
+    100022: foot_R
+    100024: footcontroller_L
+    100026: footcontroller_R
+    100028: hand_L
+    100030: hand_R
+    100032: head
+    100034: if1_L
+    100036: if1_R
+    100038: if2_L
+    100040: if2_R
+    100042: if3_L
+    100044: if3_R
+    100046: legik_L
+    100048: legik_R
+    100050: lowerarm_L
+    100052: lowerarm_R
+    100054: lowerleg_L
+    100056: lowerleg_R
+    100058: mf1_L
+    100060: mf1_R
+    100062: mf2_L
+    100064: mf2_R
+    100066: mf3_L
+    100068: mf3_R
+    100070: neck
+    100072: //RootNode
+    100074: pelwas
+    100076: pelwas_001
+    100078: rf1_L
+    100080: rf1_R
+    100082: rf2_L
+    100084: rf2_R
+    100086: rf3_L
+    100088: rf3_R
+    100090: ribs
+    100092: sf1_L
+    100094: sf1_R
+    100096: sf2_L
+    100098: sf2_R
+    100100: sf3_L
+    100102: sf3_R
+    100104: shoulder_L
+    100106: shoulder_R
+    100108: spine
+    100110: t1_L
+    100112: t1_R
+    100114: t2_L
+    100116: t2_R
+    100118: t3_L
+    100120: t3_R
+    100122: toe_L
+    100124: toe_R
+    100126: upperarm_L
+    100128: upperarm_R
+    100130: upperleg_L
+    100132: upperleg_R
+    400000: Armature
+    400002: Bone
+    400004: Cylinder
+    400006: eye_L
+    400008: eye_L_0
+    400010: eye_R
+    400012: eye_R_0
+    400014: eyecontroller
+    400016: eyeik_L
+    400018: eyeik_R
+    400020: foot_L
+    400022: foot_R
+    400024: footcontroller_L
+    400026: footcontroller_R
+    400028: hand_L
+    400030: hand_R
+    400032: head
+    400034: if1_L
+    400036: if1_R
+    400038: if2_L
+    400040: if2_R
+    400042: if3_L
+    400044: if3_R
+    400046: legik_L
+    400048: legik_R
+    400050: lowerarm_L
+    400052: lowerarm_R
+    400054: lowerleg_L
+    400056: lowerleg_R
+    400058: mf1_L
+    400060: mf1_R
+    400062: mf2_L
+    400064: mf2_R
+    400066: mf3_L
+    400068: mf3_R
+    400070: neck
+    400072: //RootNode
+    400074: pelwas
+    400076: pelwas_001
+    400078: rf1_L
+    400080: rf1_R
+    400082: rf2_L
+    400084: rf2_R
+    400086: rf3_L
+    400088: rf3_R
+    400090: ribs
+    400092: sf1_L
+    400094: sf1_R
+    400096: sf2_L
+    400098: sf2_R
+    400100: sf3_L
+    400102: sf3_R
+    400104: shoulder_L
+    400106: shoulder_R
+    400108: spine
+    400110: t1_L
+    400112: t1_R
+    400114: t2_L
+    400116: t2_R
+    400118: t3_L
+    400120: t3_R
+    400122: toe_L
+    400124: toe_R
+    400126: upperarm_L
+    400128: upperarm_R
+    400130: upperleg_L
+    400132: upperleg_R
+    2100000: Material_004__brown_eye_texture_by_jfreak86_jpg
+    2100002: Material_001__ear_texture_png
+    2100004: Material_005__obama_face_texture_png
+    2100006: Material_001_Untitled_004__obama_cloth_texture_png
+    2100008: Material_002__obama_teeth_texture_png
+    2100010: Material_003__obama_teeth_texture_png_001
+    4300000: eye_R
+    4300002: Cylinder
+    4300004: eye_L
+    7400000: Default Take
+    9500000: //RootNode
+    13700000: Cylinder
+    13700002: eye_L
+    13700004: eye_R
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
